@@ -3,13 +3,13 @@ import '@firebase/auth';
 import '@firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyD4KaJ-MArSxzaByKuzyaM7QU1rBTRwt78',
-  authDomain: 'actividad-10-utch.firebaseapp.com',
-  databaseURL: 'https://actividad-10-utch-default-rtdb.firebaseio.com',
-  projectId: 'actividad-10-utch',
-  storageBucket: 'actividad-10-utch.appspot.com',
-  messagingSenderId: '912457574451',
-  appId: '1:912457574451:web:27ad1971316a81d0595b46',
+  apiKey: "AIzaSyA2ZT9MdpK88rd5YA-v6kKevoHyXo8glCw",
+  authDomain: "actividad-10-70465.firebaseapp.com",
+  databaseURL: "https://actividad-10-70465-default-rtdb.firebaseio.com",
+  projectId: "actividad-10-70465",
+  storageBucket: "actividad-10-70465.appspot.com",
+  messagingSenderId: "74486115255",
+  appId: "1:74486115255:web:5367e83a6a3c1d5c119632"
 };
 
 if (!firebase.apps.length) {
